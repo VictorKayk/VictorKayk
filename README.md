@@ -1,16 +1,22 @@
-### Hi there 👋
+#  Victor Kayk 🤡
 
-<!--
-**VictorKayk/VictorKayk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+Meu chamo Victor Kayk, tenho 16 anos, sou um entusiasta na área de T.I, e estou tentando aprender cada vez mais sobre essa campo do conhecimento maravilhoso. 😎🤙🤙<br>
+Atualmente estou no 1° ano do ensino médio, no <strong>IFBA - Campus Brumado</strong>🏫.
+</p>
 
-Here are some ideas to get you started:
+```py
+Print("Hello Word!")
+```
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="left">
+  📷 Minhas redes sociais: ⬇️
+</p>
+
+<p align="left">
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=www.instagram.com/victorkayk77/"/></a>
+</p>  
+<hr>
