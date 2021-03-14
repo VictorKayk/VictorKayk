@@ -10,9 +10,11 @@ Print("Hello Word!")
 ```
 <hr>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorKayk&layout=compact&theme=dark)](https://github.com/VictorKayk/github-readme-stats)
+<hr>
 
 <p align="left">
-  📷 Minhas redes sociais: ⬇️
+  <strong>📷 Minhas redes sociais: ⬇️</strong>
 </p>
 
 <p align="left">
