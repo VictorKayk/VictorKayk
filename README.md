@@ -13,9 +13,9 @@ Print("Hello Word!")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorKayk&layout=compact&theme=dark)](https://github.com/VictorKayk/github-readme-stats)
 <hr>
 
-<p align="left">
+<h3 align="left">
   <strong>📷 Minhas redes sociais: ⬇️</strong>
-</p>
+</h3>
 
 <p align="left">
   <a href="https://www.instagram.com/victorkayk77/" alt="Instagram">
