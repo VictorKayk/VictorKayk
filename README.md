@@ -5,8 +5,8 @@ Meu chamo Victor Kayk, tenho 16 anos, sou um entusiasta na área de T.I, e estou
 Atualmente estou no 1° ano do ensino médio, no <strong>IFBA - Campus Brumado</strong>🏫.
 </p>
 
-```py
-Print("Hello Word!")
+```php
+echo "Hello World!"
 ```
 <hr>
 
