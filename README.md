@@ -6,7 +6,7 @@ Atualmente estou no 1° ano do ensino médio, no <strong>IFBA - Campus Brumado</
 </p>
 
 ```php
-echo "Hello World!"
+echo "Hello World!";
 ```
 <hr>
 
