@@ -32,8 +32,8 @@ alert('Welcome to my profile');
   <a href="https://www.instagram.com/victorkayk77/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/victorkayk77/"/>
   </a>
-  <a href="https://br.linkedin.com/in/victor-kayk-da-silva-143aa6215" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://br.linkedin.com/in/victor-kayk-da-silva-143aa6215"/>
+  <a href="https://www.linkedin.com/in/victorkayk/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/victorkayk/"/>
   </a>
 </p>
 
