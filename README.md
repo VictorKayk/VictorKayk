@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hello World!</h1>
 
-<img align="right" src="https://allhacked.com/up/2019/03/hello-world.gif"></img>
 <p align="left"> 
 Meu chamo Victor Kayk, tenho 16 anos, sou um entusiasta na área de T.I, e estou tentando aprender cada vez mais sobre essa campo do conhecimento maravilhoso.<br>
 Atualmente estou no 1° ano do ensino médio, no <strong>IFBA - Campus Brumado</strong>.
@@ -10,8 +9,8 @@ Atualmente estou no 1° ano do ensino médio, no <strong>IFBA - Campus Brumado</
 alert('Welcome to my profile');
 ```
 <hr>
-
-<div align="center"><a href="https://github.com/VictorKayk"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorKayk&layout=compact&theme=dark"></a></di>
+<img align="left" src="https://allhacked.com/up/2019/03/hello-world.gif"></img>
+<div align="right"><a href="https://github.com/VictorKayk"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorKayk&layout=compact&theme=dark"></a></di>
 
 <hr>
 
