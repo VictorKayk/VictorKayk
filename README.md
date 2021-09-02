@@ -14,7 +14,7 @@ alert('Welcome to my profile');
 
 <hr>
 
-<h3 align="left"><strong>💻 Tecnologias: ⬇️</strong></h3>
+<h3 align="left"><strong>💻 Tecnologias:</strong></h3>
 <p align="left">
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
@@ -27,7 +27,7 @@ alert('Welcome to my profile');
 
 <hr>
 
-<h3 align="left"><strong>📷 Minhas redes sociais: ⬇️</strong></h3>
+<h3 align="left"><strong>📷 Minhas redes sociais:</strong></h3>
 <p align="left">
   <a href="https://www.instagram.com/victorkayk77/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/victorkayk77/"/>
