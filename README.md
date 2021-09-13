@@ -6,7 +6,7 @@ Atualmente estou no 1° ano do ensino médio, no <strong>IFBA - Campus Brumado</
 </p>
 
 ```javascript
-alert('Welcome to my profile');
+console.log('Welcome to my profile');
 ```
 <hr>
 <img align="left" src="https://allhacked.com/up/2019/03/hello-world.gif"></img>
